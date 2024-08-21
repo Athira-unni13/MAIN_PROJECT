@@ -1,0 +1,6 @@
+tensorflow
+Keras.models
+opencv-python
+Pillow
+Flask
+
